@@ -1,6 +1,6 @@
 ## Builds
 
-In this repo, you can get our builds in the releases page, or you can download them directly from here, along with their recovery images, except for build #1.
+In this repo, you can get our builds in the releases page, or you can download them directly from here, along with their recovery images.
 
 | Build | ROM               | Build date                           | Security Patch      | Release | Kernel           | Download |
 | ----- |:----------------- |:------------------------------------ |:------------------- |:------- |:---------------- |:-------- |
